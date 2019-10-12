@@ -14,10 +14,10 @@
 <br>
 <br>
 
-![alt text](https://github.com/scharnk/Deep-Learning-in-Python/blob/master/images/machinelearning_CH01.png)<br>
+![alt text](https://github.com/scharnk/Machine-Learning-with-the-Experts/blob/master/images/machinelearning_CH01.png)<br>
 
-![alt text](https://github.com/scharnk/Deep-Learning-in-Python/blob/master/images/machinelearning_CH02.png)<br>
+![alt text](https://github.com/scharnk/Machine-Learning-with-the-Experts/blob/master/images/machinelearning_CH02.png)<br>
 
-![alt text](https://github.com/scharnk/Deep-Learning-in-Python/blob/master/images/machinelearning_CH03.png)<br>
+![alt text](https://github.com/scharnk/Machine-Learning-with-the-Experts/blob/master/images/machinelearning_CH03.png)<br>
 
-![alt text](https://github.com/scharnk/Deep-Learning-in-Python/blob/master/images/machinelearning_CH04.png)<br>
+![alt text](https://github.com/scharnk/Machine-Learning-with-the-Experts/blob/master/images/machinelearning_CH04.png)<br>
