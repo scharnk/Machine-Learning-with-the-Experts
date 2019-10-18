@@ -1,5 +1,5 @@
 # Machine-Learning-with-the-Experts
-<p>This repository is a way of keeping track of methods learned during data camp's course <a href="https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets">here</a></p>
+<p>This repository is a way of keeping track of methods learned during data camp's course <a href="https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets">here</a>.</p>
 <br>
 <h3>The course consists of four chapters on: </h3>
 <ol>
